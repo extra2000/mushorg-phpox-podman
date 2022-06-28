@@ -1,0 +1,5 @@
+output/*
+docs-phpox-pod.yaml
+
+src/*
+!src/Dockerfile
